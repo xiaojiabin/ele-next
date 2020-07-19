@@ -80,7 +80,7 @@
 - [ ] Table
 - [ ] TableColumn
 - [ ] Tabs
-- [x] Tag
+- [ ] Tag
 - [ ] TimePicker
 - [ ] TimeSelect
 - [x] Timeline
